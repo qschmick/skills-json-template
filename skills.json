@@ -1,0 +1,23 @@
+{
+  "frontend": [
+    "ES6",
+    "CSS3",
+    "HTML5"
+  ],
+  "backend": [
+    "PHP",
+    "SQL"
+  ],
+  "languages": [
+    "PHP",
+    "JS",
+    "C++",
+    "Java",
+    "Ruby"
+  ],
+  "fullstack/theory": [
+    "Graphs",
+    "Data Structures",
+    "NP"
+  ]
+}
