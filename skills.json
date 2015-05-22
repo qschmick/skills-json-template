@@ -1,23 +1,45 @@
 {
-  "frontend": [
-    "ES6",
-    "CSS3",
-    "HTML5"
-  ],
-  "backend": [
-    "PHP",
-    "SQL"
-  ],
-  "languages": [
-    "PHP",
-    "JS",
-    "C++",
-    "Java",
-    "Ruby"
-  ],
-  "fullstack/theory": [
+  "technology": {
+    "php>=": "7.0",
+    "mysql": "5.6.*"
+  },
+  "skills": [
     "Graphs",
     "Data Structures",
-    "NP"
-  ]
+    "NP",
+    "DBA"
+  ],
+  "description": [
+    "We need someone that can code in php 7.0 and use graph data plugins on mysql."
+  ],
+  "resources": {
+    "persons": [
+      {
+        "name": "Quentin Schmick",
+        "email": "QSchmick@gmail.com",
+        "twitter": "@qtschmi"
+      },
+      {
+        "name": "Jane Doe",
+        "email": "Jane.Doe@notarealdoamin.com",
+        "twitter": "@janedoesntexist"
+      }
+    ],
+    "bugs": [
+      "bugs@skillsjson.org",
+      "bugs@skillsjson.org"
+    ],
+    "mailinglist": [
+      "admins@skillsjson.org",
+      "dbas@skillsjson.org"
+    ],
+    "security": [
+      "high@skillsjson.org",
+      "mid@skillsjson.org",
+      "low@skillsjson.org"
+    ],
+    "repository": "",
+    "homepage": "https://helpusco.de"
+  },
+  "version": ""
 }
