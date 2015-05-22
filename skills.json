@@ -1,6 +1,7 @@
 {
+  "version": "0.1a",
   "technology": {
-    "php>=": "7.0",
+    "php": ">= 5.5.* | 7.0",
     "mysql": "5.6.*"
   },
   "skills": [
@@ -10,7 +11,8 @@
     "DBA"
   ],
   "description": [
-    "We need someone that can code in php 7.0 and use graph data plugins on mysql."
+    "We need someone that can code in php 7.0 and use graph data plugins on mysql.",
+    "We are looking for a new php dev to join in and help expand our test suite."
   ],
   "resources": {
     "persons": [
@@ -38,8 +40,7 @@
       "mid@skillsjson.org",
       "low@skillsjson.org"
     ],
-    "repository": "",
+    "repository": "https://github.com/qschmick/skills-json-template",
     "homepage": "https://helpusco.de"
-  },
-  "version": ""
+  }
 }
