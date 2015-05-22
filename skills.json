@@ -1,46 +1,60 @@
 {
   "version": "0.1a",
   "technology": {
-    "php": ">= 5.5.* | 7.0",
-    "mysql": "5.6.*"
+    "php": ">= 5.6.* | 7.*",
+    "mongo": ">= 2.6.*",
+    "bootstrap":">= 3.3.*",
+    "":""
   },
   "skills": [
     "Graphs",
-    "Data Structures",
-    "NP",
-    "DBA"
+    "Rest API",
+    "Web Development",
+    "NoSQL"
   ],
-  "needs": [
-    "We need someone that can code in php 7.0 and use graph data plugins on mysql.",
-    "We are looking for a new php dev to join in and help expand our test suite."
-  ],
+  "needs": [],
   "resources": {
     "persons": [
+      {
+        "name": "Davey Shafik",
+        "email": "me@daveyshafik.com"
+      },
       {
         "name": "Quentin Schmick",
         "email": "QSchmick@gmail.com",
         "twitter": "@qtschmi"
       },
       {
-        "name": "Jane Doe",
-        "email": "Jane.Doe@notarealdoamin.com",
-        "twitter": "@janedoesntexist"
+        "name": "Sean Fraser",
+        "email": "sfraser.media@gmail.com"
+      },
+      {
+        "name": "Ian Littman",
+        "email": "iansltx@gmail.com"
+      },
+      {
+        "name": "John Bafford",
+        "email": ""
+      },
+      {
+        "name": "Gemma Lynn",
+        "email": ""
+      },
+      {
+        "name": "Chuck Reeves",
+        "email": "chuck@manchuck.com"
       }
     ],
     "bugs": [
-      "bugs@skillsjson.org",
-      "bugs@skillsjson.org"
+      "bugs@helpusco.de"
     ],
     "mailinglist": [
-      "admins@skillsjson.org",
-      "dbas@skillsjson.org"
+      "devs@helpusco.de"
     ],
     "security": [
-      "high@skillsjson.org",
-      "mid@skillsjson.org",
-      "low@skillsjson.org"
+      "security@helpusco.de"
     ],
-    "repository": "https://github.com/qschmick/skills-json-template",
+    "repository": "https://github.com/helpwanted/helpwanted",
     "homepage": "https://helpusco.de"
   }
 }
